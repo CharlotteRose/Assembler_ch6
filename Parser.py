@@ -1,4 +1,4 @@
-__author__ = 'Cheech Wife'
+__author__ = 'Scoots'
 import symbolTable
 import Code
 
